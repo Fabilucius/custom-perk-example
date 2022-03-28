@@ -1,0 +1,5 @@
+name: CustomPerkExample
+version: ${project.version}
+main: de.fabilucius.customperkexample.CustomPerkExample
+depend:
+  - 'AdvancedPerks'
